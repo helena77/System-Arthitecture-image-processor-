@@ -1,13 +1,13 @@
 # System-Arthitecture-image-processor-
-Overview
-This simple image processor allows user to upload an image in some format and preform combinations of the following operations:
-	Flip horizontal and vertical
-	Rotate +/- n degrees
-	Convert to grayscale
-	Resize
-	Generate a thumbnail
-    Rotate left
-    Rotate right
+### Overview
+	This simple image processor allows user to upload an image in some format and preform combinations of the following operations:
+		- Flip horizontal and vertical
+		- Rotate +/- n degrees
+		- Convert to grayscale
+		- Resize
+		- Generate a thumbnail
+    		- Rotate left
+    		- Rotate right
 Assumption:
 	The target user of this processor is only programmer which means there’s no UI
     There won’t be too many programmers use  the processor so the load balancer is unnecessary at this moment
