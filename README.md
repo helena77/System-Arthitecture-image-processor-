@@ -1,6 +1,7 @@
 # System-Arthitecture-image-processor-
 ## Overview
 This simple image processor allows user to upload an image in some format and preform combinations of the following operations:
+
 	* Flip horizontal and vertical
 	* Rotate +/- n degrees
 	* Convert to grayscale
